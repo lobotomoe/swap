@@ -22,9 +22,9 @@ body {
 
 iframe {
   border: none;
-  max-width: 350px;
+  max-width: 4000px;
   width: 100%;
   /* min-height: 700px; */
   height: 100%;
-  max-height: 350px;
+  max-height: 400px;
 }
